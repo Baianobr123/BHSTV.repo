@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="BHSTV.repo" name="[B] [COLOR white]Repositorio[/COLOR]: [COLOR red]BHS TV[/COLOR] [/B]" versions="1.0.0" provider-name="BHSTV">
+<addon id="BHSTV.repo" name="BHS TV Repo" version="1.0.0" provider-name="BHSTV">
     <extension point="xbmc.addon.repository" name="BHS TV Repo">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Baianobr123/BHSTV.repo/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Baianobr123/BHSTV.repo/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Baianobr123/BHSTV.repo/main/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Baianobr123/bhstv.repo/main/repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Baianobr123/bhstv.repo/main/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Baianobr123/bhstv.repo/main/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
